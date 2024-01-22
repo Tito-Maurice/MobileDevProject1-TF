@@ -1,12 +1,12 @@
 # MobileDevProject1-TF
 
-# Project 1 - *Name of App Here*
+# Project 1 - The Batman App
 
-Submitted by: **Your Name Here**
+Submitted by: Tito-Maurice Fynn
 
-**Name of your app** is an app that introduces ... [TODO] 
+The Batman App is an app that introduces the fictional character Batman. It tells of his origin, his vulnerabilities and his ultimate nemesis.
 
-Time spent: **X** hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
@@ -25,7 +25,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+
+To improve on the app's functionality, I would need to get a better understanding of how to properly position items on screen and how constraints work.
 
 ## Video Walkthrough
 
@@ -37,9 +39,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
+It was very difficult grasping how to properly position items and placing constraints on them so that they would properly fit on different devices and adjust to the proper orientation. Images and text constantly would get pushed out of their original position or off the screen entirely.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Tito-Maurice Fynn]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
